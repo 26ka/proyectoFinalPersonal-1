@@ -13,9 +13,9 @@ export function Home(){
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-8">
-                            <h2>Reik</h2>
-                            <p>Reik es una banda musical originaria de Mexicali, Baja California, México y formada en 2003. Esta banda está principalmente conformada por Jesús Navarro (Voz principal y Piano), Julio Ramírez (Guitarra y Bajo) y Gilberto «Bibi» Marín (Guitarra y Batería). Los primeros 5 álbumes de la banda mexicana han sido de puras Baladas románticas, sin embargo, desde principios de 2015 sus últimas producciones abarcan el reguetón y el pop latino. Ha ganado un Latin Billboard Music Award, cuatro premios Los Premios MTV Latinoamérica y un Grammy latino.</p>
-                            <img src='https://firebasestorage.googleapis.com/v0/b/spotyjaider.appspot.com/o/HSIQPPQMOZAMBO5ORVNZL5ACPY.jpg?alt=media&token=62c6e61e-723b-4fde-9154-9efb65bb1f9a'/>
+                            <h2>Jesse & Joy</h2>
+                            <p> Son dos hermanos nacidos en México. Jesse el 21 de Enero de 1982 y Joy el 20 de Junio de 1986. Desde pequeños, ambos empiezan a demostrar su gusto por la música, pero es en 2001 cuando deciden luchar por su sueño y comienzan a escribir canciones junto a su padre.</p>
+                            <img src='https://firebasestorage.googleapis.com/v0/b/spotykrl.appspot.com/o/JESSI.jpg?alt=media&token=13ddcb1a-ae50-4416-9751-b465a0af6975'/>
                         </div>
                         <div className="col-12 col-md-4">
                         <i className="bi bi-vinyl-fill fs-1"></i>

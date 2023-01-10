@@ -19,34 +19,34 @@ export function Mercancia(){
 
     let productos=[
         {
-            nombre:"Gel para el cabello",
-            foto:"https://firebasestorage.googleapis.com/v0/b/spotyjaider.appspot.com/o/producto-1.jpg?alt=media&token=3346fbbe-93ec-4f36-901e-0b20cd5143f8",
-            precio:20000
+            nombre:"Sudadera de corazon",
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotykrl.appspot.com/o/Captura.PNG?alt=media&token=b2b93637-5629-4e50-a74f-1c9d9fd4e7f6",
+            precio:50000
         },
         {
-            nombre:"Botas de cuero",
-            foto:"https://firebasestorage.googleapis.com/v0/b/spotyjaider.appspot.com/o/producto-2.webp?alt=media&token=25c1088f-0684-4a31-adfc-0817b8bfab19",
+            nombre:"Bluso",
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotykrl.appspot.com/o/Captura%201.PNG?alt=media&token=45857d8c-6f0f-4903-be43-0282697af04b",
             precio:70000
         },
         {
-            nombre:"Libretas",
-            foto:"https://firebasestorage.googleapis.com/v0/b/spotyjaider.appspot.com/o/producto-3.jpg?alt=media&token=ec36f754-c8f1-42ef-85a4-26c1b0693580",
+            nombre:"Cuaderno",
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotykrl.appspot.com/o/cuaderno.jpg?alt=media&token=f3fc1583-b0ec-47d8-87fb-28ec78567a2c",
             precio:15000
         },
         {
-            nombre:"Riñonera en cuero-plateada",
-            foto:"https://firebasestorage.googleapis.com/v0/b/spotyjaider.appspot.com/o/producto-4.webp?alt=media&token=533dee2c-ead6-43de-9352-e4606936a783",
-            precio:45000
+            nombre:"Gorra",
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotykrl.appspot.com/o/Captura%203.PNG?alt=media&token=05c86b22-7e56-4572-bf69-eda8f08986bf",
+            precio:25000
         },
         {
-            nombre:"Hoddy original color negro",
-            foto:"https://firebasestorage.googleapis.com/v0/b/spotyjaider.appspot.com/o/producto-5.jpeg?alt=media&token=f787601f-3ce7-494c-882f-73e98c8eb1ff",
-            precio:80000
+            nombre:"Sombrero",
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotykrl.appspot.com/o/sombreros.jpg.crdownload?alt=media&token=75125cf3-5fc8-4117-97a2-289c08f1325b",
+            precio:30000
         },
         {
-            nombre:"CD original de Reik",
-            foto:"https://firebasestorage.googleapis.com/v0/b/spotyjaider.appspot.com/o/producto-6.jpg?alt=media&token=d51e2603-395c-4e1f-96f9-3005a2896c86",
-            precio:120000
+            nombre:"Gitarra",
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotykrl.appspot.com/o/gitarra.jpg?alt=media&token=2e71f390-439d-400c-b28e-0b9afddc5c0d",
+            precio:1200000
         }
     ]
 
